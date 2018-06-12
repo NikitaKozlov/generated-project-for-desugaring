@@ -1,0 +1,3 @@
+rootProject.name = 'genny_KotlinWithLambdas'
+
+include 'applicationModule'

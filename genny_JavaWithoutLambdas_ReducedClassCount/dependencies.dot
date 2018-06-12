@@ -1,0 +1,3 @@
+digraph genny_JavaWithoutLambdas_ReducedClassCount {
+  applicationModule;
+}

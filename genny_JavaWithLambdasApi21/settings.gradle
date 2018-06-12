@@ -1,0 +1,3 @@
+rootProject.name = 'genny_JavaWithLambdasApi21'
+
+include 'applicationModule'
