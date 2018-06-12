@@ -1,0 +1,4 @@
+*/profile-out*
+.gradle/*
+gradle-user-home/*
+build/*
